@@ -74,10 +74,4 @@ The simulator expects FlightGear to be listening for FDM data on UDP port `5501`
 
 The controller solves an unconstrained least-squares MPC law analytically, then checks the elevator deflection and rate constraints; if violated, a constrained QP correction (`PQP` in `quadratic_optim_solver.py`) recomputes a feasible input.
 
-## License
-
-Add your preferred license here (e.g. MIT).
-
-## Acknowledgements
-
-Developed as part of a flight dynamics / control systems coursework project on explicit MPC design and constrained trajectory tracking.
+HAVE A SMOOTH FLIGHT !!!
