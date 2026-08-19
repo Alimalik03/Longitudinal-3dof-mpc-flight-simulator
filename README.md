@@ -14,7 +14,7 @@ The simulator models altitude, pitch, airspeed, angle of attack, and pitch rate 
 
 **Performance dashboard**
 
-![Longitudinal performance plots](media/LONGITUDINAL_PERFORMANCE_PLOTS.png)
+[Longitudinal performance plots](media/LONGITUDINAL_PERFORMANCE_PLOTS.png)
 
 The dashboard above shows altitude and velocity tracking against reference setpoints, tracking error with RMS metrics, throttle and elevator commands against their constraint limits, and angle-of-attack / pitch-rate response over the simulation horizon.
 
