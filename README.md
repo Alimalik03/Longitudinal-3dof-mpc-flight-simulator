@@ -8,13 +8,13 @@ The simulator models altitude, pitch, airspeed, angle of attack, and pitch rate 
 
 **FlightGear visualization**
 
-[▶ Watch the simulation run in FlightGear](media/GNC-Main.mp4)
+[▶ Watch the simulation run in FlightGear](media/GNC-Main2.mp4)
 
 > GitHub note: if you push this repo to GitHub, drag-and-drop `GNC-Main.mp4` directly into a GitHub issue/PR/README edit box — GitHub will host it and generate a proper `https://github.com/user-attachments/assets/...` embed link you can paste in here for inline playback. The relative link above works everywhere else (local viewing, GitLab, etc.).
 
 **Performance dashboard**
 
-![Longitudinal performance plots](media/mpc_simulation_plots.png)
+![Longitudinal performance plots](media/LONGITUDINAL_PERFORMANCE_PLOTS.png)
 
 The dashboard above shows altitude and velocity tracking against reference setpoints, tracking error with RMS metrics, throttle and elevator commands against their constraint limits, and angle-of-attack / pitch-rate response over the simulation horizon.
 
